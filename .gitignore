@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+
+# Data files (too large for git)
+data/
+*.csv
+
+# Temporary files
+*.tmp
+.DS_Store
+
+# Keep only the main files needed for GitHub Pages
+!index.html
+!README.md
